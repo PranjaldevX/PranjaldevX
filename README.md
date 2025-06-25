@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranjaldevX
-- 👀 I’m interested in Wed development and Game development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in A.I. and Game development 
+- 🌱 I’m currently learning C++ 
   
 
 <!---
